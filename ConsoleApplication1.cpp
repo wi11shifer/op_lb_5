@@ -50,15 +50,15 @@ int main()
     }
            switch (x % 10)
            {
-           case 1: cout << "один\n"; break;
-           case 2: cout << "два\n"; break;
-           case 3: cout << "три\n"; break;
-           case 4: cout << "чотири\n"; break;
-           case 5: cout << "п'ять\n"; break;
-           case 6: cout << "шість\n"; break;
-           case 7: cout << "сім\n"; break;
-           case 8: cout << "вісім\n"; break;
-           case 9: cout << "дев'ять\n"; break;
+           case 1: cout << "one\n"; break;
+           case 2: cout << "two\n"; break;
+           case 3: cout << "three\n"; break;
+           case 4: cout << "four\n"; break;
+           case 5: cout << "five\n"; break;
+           case 6: cout << "six\n"; break;
+           case 7: cout << "seven\n"; break;
+           case 8: cout << "eight\n"; break;
+           case 9: cout << "nine\n"; break;
            };
     }
 
